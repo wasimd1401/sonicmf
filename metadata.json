@@ -1,0 +1,7 @@
+{
+  "name": "SonicScan",
+  "description": "A deep-dive musical analysis tool powered by Gemini. Upload a track to visualize structure, production nuances, energy dynamics, and extract lyrics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
